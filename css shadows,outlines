@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .box{
+            border:2px solid red;
+            padding: 34px;
+            box-shadow: inset 5px 15px 15px 15px greenyellow;
+        }
+        .text-element {
+            text-shadow: 15px 15px 15px cyan;
+        }
+    </style>
+</head>
+<body>
+    <div class="box">
+        i am a box
+    </div>
+    <p class="text-element"> 
+        Hey, you are great! Lorem ipsum dolor sit amet consectetur adipisicing elit. Eum quod sequi quae quas, 
+        voluptate praesentium id rem asperiores, odit, obcaecati aliquam eaque commodi nesciunt eius 
+        ratione ea culpa amet quo!
+    </p>
+</body>
+</html>
